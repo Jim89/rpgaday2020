@@ -9,7 +9,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 ## The posts/prompts
 
 * [Beginning](01-beginning.md)
-* Change
+* [Change](02-change.md)
 * Thread   
 * Vision
 * Tribute
