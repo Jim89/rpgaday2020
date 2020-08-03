@@ -10,7 +10,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 
 * [Beginning](01-beginning.md)
 * [Change](02-change.md)
-* Thread   
+* [Thread](03-thread.md)
 * Vision
 * Tribute
 * Forest
