@@ -12,7 +12,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Change](02-change.md)
 * [Thread](03-thread.md)
 * [Vision](04-vision.md)
-* Tribute
+* [Tribute](05-tribute.md)
 * Forest
 * Couple
 * Shade
