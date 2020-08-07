@@ -36,3 +36,6 @@ Thank you for the snacks and for the Creature Comforts (even if not all of you
 would drink it...).
 
 I pay tribute to you all.
+
+
+#rpgaday2020

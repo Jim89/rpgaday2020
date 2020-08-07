@@ -29,3 +29,5 @@ That I want to find ways to bring them (back) into the story. Maybe that's too
 ambitious, and maybe there are always tradeoffs that need to be made in an RPG
 (after all, with finite play time you can't explore _everything_), but it's
 something I want to at least _try_ to do.
+
+#rpgaday2020

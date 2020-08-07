@@ -24,3 +24,5 @@ broadly than that.
 Now, I would, and I'm glad I've come to see this side of games, and seen how
 play can not only be a fun diversion from everyday tedium, but also a more
 enriching and fulfilling part of my life.
+
+#rpgaday2020
