@@ -14,7 +14,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Vision](04-vision.md)
 * [Tribute](05-tribute.md)
 * [Forest](06-forest.md)
-* Couple
+* [Couple](07-couple.md)
 * Shade
 * Light
 * Want
