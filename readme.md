@@ -16,7 +16,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Forest](06-forest.md)
 * [Couple](07-couple.md)
 * [Shade](08-shade.md)
-* Light
+* [Light](09-shade.md)
 * Want
 * Stack
 * Message

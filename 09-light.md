@@ -1,0 +1,11 @@
+## Light
+
+Historically for me, RPGs were always a _heavy_ gaming experience. They were about stats and XP and _numbers_ accumulating. THAC0 and the like certainly helped to cement this view for me (although I only encounted them in cRPGs that did the number-crunching for me). The idea of a (rules) _light_ RPG would have seemed a bit alien and foreign to me. But then I played a much lighter game, where the core mechanic was simple (and there were basically no other mechanics). 
+
+I stepped into a one-shot using [The Ward](https://www.drivethrurpg.com/product/222793/The-Ward-Acute-Care-Edition), a Powered by the Apocalpyse game focussing on the drama of the medical professions. Only we didn't really lean so much into drama as we did comedy. Setting ourselves up as doctors in a celebrity clinic in Las Vegas overrun by a bout of food poisoning at a local sci-fi convention the theme was definitely on the lighter side, and the simplicity, the _lightness_, of the game kept things flowing to our hilarious conclusion. 
+
+I played a [G.O.B.](https://arresteddevelopment.fandom.com/wiki/G.O.B.)-inpsired, up-and-coming Dr. Brett Bat. I leaned hard into the ridiculous, selfish and narcissistic side of the character; Dr. Bratt rode into The Ward on an electric scooter, flirted his way through the hospital, dodging work and shirking all responsiblity in pursuit of his ultimate goal: the foxy Dr. Erin Gray. Ultimately that love was an unrequited one, and Dr. Bat was left alone to bear witness to ruin that had followed in his chaotic wake as he meandered from one sticky situation to another. 
+
+But the _lightness_ of the game kept things moving, kept things simple, kept things focussed on the nonsensical stories were were telling as we sat around the table. The lightness of the game kept it silly and fun and entertaining (which, on that day, was exactly what I was in the mood for). In that moment it was like a light had been shone on to the hobby. Previously I'd discussed and read about some simpler games, but had never really _seen_ them. Experiencing one was _incredibly_ fun, and getting to focus much more on the narrative beats rather than the minutae of rules spoke to me and pulled me further in to the hobby. 
+
+#rpgaday2020
