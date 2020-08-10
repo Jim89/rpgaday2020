@@ -17,7 +17,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Couple](07-couple.md)
 * [Shade](08-shade.md)
 * [Light](09-shade.md)
-* Want
+* [Want](10-want.md)
 * Stack
 * Message
 * Rest
