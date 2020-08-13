@@ -19,7 +19,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Light](09-shade.md)
 * [Want](10-want.md)
 * [Stack](11-stack.md)
-* Message
+* [Message](12-message.md)
 * Rest
 * Banner
 * Frame
