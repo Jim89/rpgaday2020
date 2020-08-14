@@ -20,7 +20,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Want](10-want.md)
 * [Stack](11-stack.md)
 * [Message](12-message.md)
-* Rest
+* [Rest](13-rest.md)
 * Banner
 * Frame
 * Dramatic
