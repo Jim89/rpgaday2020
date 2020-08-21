@@ -26,9 +26,9 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Dramatic](16-dramatic.md)
 * [Comfort](17-comfort.md)
 * [Meet](18-meet.md)
-* Tower
-* Investigate    
-* Push    
+* [Tower](19-tower.md)
+* [Investigate](20-investigate.md)
+* [Push](21-push.md)
 * Rare
 * Edge
 * Humour
