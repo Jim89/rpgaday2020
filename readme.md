@@ -29,11 +29,11 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Tower](19-tower.md)
 * [Investigate](20-investigate.md)
 * [Push](21-push.md)
-* Rare
-* Edge
-* Humour
-* Lever
-* Strange
+* [Rare](22-rare.md)
+* [Edge](23-edge.md)
+* [Humour](24-humour.md)
+* [Lever](25-lever.md)
+* [Strange](26-strainge.md)
 * Favour
 * Close
 * Ride
